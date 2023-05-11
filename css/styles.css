@@ -1,0 +1,24 @@
+body{
+	background-color: lightblue;
+}
+.footer{
+	background-color: red;
+	height: 10vh;
+	width: 100%;
+	border: 2px solid black;
+}
+.col-md-6{
+	background-color: orange;
+	color: yellow;
+}
+.my-own-class{
+	background-color: whitesmoke;
+	color: purple;
+}
+.cd-class{
+	background-color: yellow;
+
+}
+.this-class{
+	background-color: white;
+}
